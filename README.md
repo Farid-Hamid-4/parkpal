@@ -6,3 +6,10 @@ Must use an emulator that has Google Play Store installed and Google API's. Not 
 
 ## Citations
 asset/images/car.gif - https://dribbble.com/shots/14189965-Car-Loading-Animation
+
+## Authors
+- Cameron Norrie
+- Christopher Rupert
+- Farid Hamid
+- Jacob Beal
+- Yousif Jamal
